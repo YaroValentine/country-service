@@ -1,6 +1,6 @@
-package qa.demo.countryservice.domain;
+package qa.demo.countryservice.data;
 
-import qa.demo.countryservice.domain.entity.CountryEntity;
+import qa.demo.countryservice.data.entity.CountryEntity;
 
 import java.util.UUID;
 

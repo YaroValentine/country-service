@@ -1,7 +1,7 @@
-package qa.demo.countryservice.repository;
+package qa.demo.countryservice.data.repository;
 
 import org.springframework.data.repository.CrudRepository;
-import qa.demo.countryservice.domain.entity.CountryEntity;
+import qa.demo.countryservice.data.entity.CountryEntity;
 
 import java.util.UUID;
 

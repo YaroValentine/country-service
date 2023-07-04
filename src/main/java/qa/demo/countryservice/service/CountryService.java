@@ -2,8 +2,8 @@ package qa.demo.countryservice.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import qa.demo.countryservice.domain.Country;
-import qa.demo.countryservice.repository.CountryRepository;
+import qa.demo.countryservice.data.Country;
+import qa.demo.countryservice.data.repository.CountryRepository;
 
 import java.util.ArrayList;
 import java.util.List;

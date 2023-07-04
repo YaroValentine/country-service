@@ -1,4 +1,4 @@
-package qa.demo.countryservice.domain.entity;
+package qa.demo.countryservice.data.entity;
 
 import jakarta.persistence.*;
 
